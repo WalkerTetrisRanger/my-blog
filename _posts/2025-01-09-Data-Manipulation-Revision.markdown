@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manipulating data in pandas (revision)
-date:   2025-01-08 22:00:00 +1000
+date:   2025-01-09 09:43:00 +1000
 categories: blogging, beginning
 ---
 
