@@ -41,9 +41,10 @@ Practice sessions through datacamp...
 -> without normalise = True, will return the absolute counts of each unique variable within the series (column)  
 
 *for example:*
-{
+
+```
 print(sales["product_line"].value_counts(normalise = True))
-} 
+```
   
 In a dataframe names 'sales', this would work out the proportion of each product line within the entire dataset. 
 
