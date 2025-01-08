@@ -54,19 +54,4 @@ And finally just finished this post this morning with Halle's help, datacamp has
 
 Lets see how this looks...
 
-Eddie(WTR)  
-
-
-
-
-
-
-
-
-
-
-
-
-**Grouped summary statistics and pivot tables**
-
-**
+Eddie(WTR)
