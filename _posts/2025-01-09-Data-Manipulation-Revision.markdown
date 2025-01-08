@@ -5,7 +5,7 @@ date:   2025-01-09 09:43:00 +1000
 categories: blogging, beginning
 ---
 
-# **Datacamp lesson - Slicing and subsetting with .loc and .iloc**
+### **Datacamp lesson - Slicing and subsetting with .loc and .iloc**
 
 Still learining Markdown...but here goes. 
 
@@ -13,10 +13,18 @@ Going through datacamp and learning python...sometimes I think i'm starting to g
 
 For some reason slicing and indexing lists and dataframes has a hard time sticking in my brain...
 
-.loc - calling locations within a pandas library...selects rows and columns by labels or a boolean array...
+```
+.loc
+```
+
+ - calling locations within a pandas library...selects rows and columns by labels or a boolean array...
 	can use when you know the index labels or column names
 
-.iloc - selects rows and columns by integer positions. 
+```
+.iloc
+```
+
+ - selects rows and columns by integer positions. 
 
 I've done this before in the intermediate python track on datacamp, but going back over it to really make it stick, in doing so I sorted out more about how to think about programming, stepping through what I am trying to tell the program to do, and I think I understand subsetting a dataframe a little better. 
 
@@ -25,7 +33,10 @@ Plan for tonight is to go over the datacamp revision exercises for the last few 
   
 ## Transorming DataFrames   
 
-**.sort_value()**  
+```
+.sort_value()
+```
+
 sorts values of a dataframe, can use subsetting..
 
 
