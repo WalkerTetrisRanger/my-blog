@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Studying in Cooroy Library		
-2025-01-11 11:10:00 +1000
+date: 2025-01-11 11:10:00 +1000
 categories: blogging, beginning, libraries, travel
 ---
 
