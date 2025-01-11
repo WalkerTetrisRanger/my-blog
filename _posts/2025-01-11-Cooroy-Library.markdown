@@ -20,7 +20,7 @@ this is how I would insert the photo in markdown, but I think the .jpg will be t
 
 <img src="/assets/images/cooroy_lib.jpg" alt="Cooroy Library looking green :)" width="600" style="border-radius: 8px;">
 
-Addigng a photo turned into my first 30 mins...
+Adding a photo turned into my first ~~30 mins~~...nope make that hour and 15 lol. Learnt about github image size limits, and fixing syntax errors. 
 
 First I had to create a directory on my github repository. 
 
