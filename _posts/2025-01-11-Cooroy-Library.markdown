@@ -18,7 +18,7 @@ I am going to try to embed a photo of my study set up...its being very tropical 
 ```![Cooroy Library Exterior](/assets/images/cooroy_lib.jpg)```  
 this is how I would insert the photo in markdown, but I think the .jpg will be too big. Trying html. 
 
-<img src="my-blog/assets/images/cooroy_lib.jpg" alt="Cooroy Library looking green :)" width="600" style="border-radius: 8px;">
+<img src="/assets/images/cooroy_lib.jpg" alt="Cooroy Library looking green :)" width="600" style="border-radius: 8px;">
 
 Addigng a photo turned into my first 30 mins...
 
