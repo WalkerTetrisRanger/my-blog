@@ -33,9 +33,9 @@ navigate to the directory ```cd assets/images```
 then create the .gitkeep ``` touch .gitkeep```  
 had to navigate back to main and then push changes to githup...
 
-Makes me feel like a badass hacker guy with lines of code open in the library drinking an energy drink. 
+Makes me feel some sorta way with lines of code open in the library drinking an energy drink. 
 
 
-Diving into more pandas now I swear. 
+Diving into more python now I swear. 
 
 Eddie (WTR)
