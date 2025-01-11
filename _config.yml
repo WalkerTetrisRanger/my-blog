@@ -4,7 +4,7 @@ email: edwardjameswalker@outlook.com
 description: Blogging my journey into the world of compsci, data, and digital health
 theme: minima
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""
+baseurl: "/my-blog"
 #twitter_username: 
 github_username:  WalkerTetrisRanger
 
