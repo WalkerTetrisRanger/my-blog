@@ -8,7 +8,7 @@ permalink: /my-blog/about/
 ### Hi, I’m Eddie Walker, RN 👨‍⚕️ <br>
 A registered nurse turned tech enthusiast, I’m on an exciting journey to redefine how healthcare is delivered in the digital age. Armed with curiosity, compassion, and a vision for innovation, I’m blending my nursing expertise with the power of technology to drive meaningful change.  
 
-[Download my CV](https:/github.com/walkertetrisranger/my-blog/assets/pdf/EdwardWalker_CV.pdf)  
+[Download my CV](https://walkertetrisranger.github.io/my-blog/assets/pdf/EdwardWalker_CV.pdf)  
   
 ### 🚀 My Mission<br>
 I believe the future of healthcare lies at the intersection of data, artificial intelligence, compassionate leadership, and patient-centred care. My goal is to become a change-maker in the field of digital health—creating tools and systems that empower patients, enhance workflows, and improve outcomes.
