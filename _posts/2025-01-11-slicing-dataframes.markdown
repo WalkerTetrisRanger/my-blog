@@ -6,17 +6,17 @@ categories: blogging, beginning, libraries, travel
 ---
 
 
-# slicing and subsetting with pandas
-
-
+# slicing and subsetting with pandas  
+  
+  
 #### **Lecture Notes**
 
 #### Slicing a list:  
 
-```list[1st position you want, last element (not included in output)]```
-
-omitting will start at the beginning... ```[ :3]``` for example
-
+```list[1st position you want : last element (not included in output)]```
+  
+omitting will start at the beginning... ```[ :3]``` for example.  
+  
 if you inputted ```[:]``` you would get the whole list. 
 
 ## Slicing a DF
