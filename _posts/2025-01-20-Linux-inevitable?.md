@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working with pivot tables		
+title: linux Dive	
 date: 2025-01-20 21:24:00 +1000
 categories: blogging, beginning, libraries, travel
 ---
