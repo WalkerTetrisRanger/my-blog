@@ -9,7 +9,7 @@ categories: uni
 studying at everton park library today, 
 had to reclone my blog from git after doing a fresh ubuntu install (firmware update broke my XPS...cheers Dell). So definitely a bit of time wasting happening with SSH keys. I've done this a few times now, and it is getting easier to understand how ssh keys etc. work...mostly installing linux and using overthewire.org wargames has helped with feeling confident and familiar...
 
-##Everon Park Library
+## Everon Park Library
 really good, has a quiet room over to the side, big windows with a desk that has some nice greenery to keep you sane. quiet room looks good but the desk doesn't look out the window...maybe bring noise cancelling headphones if it is busy...here is a photo
 
 <img src="https://walkertetrisranger.github.io/my-blog/assets/images/eplibrary.jpg" width="600" style="border-radius: 8px;">
