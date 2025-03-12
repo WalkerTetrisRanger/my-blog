@@ -2,6 +2,7 @@
 layout: post
 title: Cyclone Week!(and University week1).
 date: 2025-03-07 12:00:00 +1000
+categories: uni
 ---
 
 # CYCLONE WEEK!
